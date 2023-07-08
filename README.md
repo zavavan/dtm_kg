@@ -13,7 +13,7 @@ This work has been described in:
 
 - **data-preparation/** contains the scripts used to model the data downloaded from MAG dataset about the Semantic Web into a format that can be mined by the Luan Yi et al. tool. 
 
-- **cso-openie-extractor/** contains the scripts that have been used to enrich the Luan Yi et al. result wirh CSO topics and Stanford Core NLP relations (i.e., OpenIE and verbs detected by the PoS tagger).
+- **spacy-extractor/** contains code to extract triples using dependency parse tree patterns from spacy annotations of sentences (i.e., OpenIE and verbs detected by the PoS tagger).
 
 - **dtmkg-generator/** contains the scripts for performing all operations to clean entities and relations and making triples.
 
