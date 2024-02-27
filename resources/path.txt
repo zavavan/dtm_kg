@@ -1,6 +1,0 @@
-nsubj,dobj
-acl,relcl,dobj
-acl,dobj
-nsubjpass,agent,pobj
-nsubj,dobj,conj
-nsubj,conj
